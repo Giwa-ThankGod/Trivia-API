@@ -1,4 +1,5 @@
 .vscode
+.github
 __pycache__
 venv
 
